@@ -1,2 +1,13 @@
-# azure-powershell-code
-Repo with PowerShell Code that can be used with Azure
+# PowerShell Code
+
+This repository contains PowerShell code that I have created to help query or perform an action within Azure. 
+
+## Credits
+Written by: Sarah Lean
+
+Find me on:
+
+* My Blog: https://www.techielass.com
+* Twitter: https://twitter.com/techielass
+* LinkedIn: http://uk.linkedin.com/in/sazlean
+* Github: https://github.com/weeyin83
