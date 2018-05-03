@@ -4,7 +4,7 @@ This repository contains PowerShell code that I have created to help query or pe
 
 ## Table of contents
 
-- [Find Tags attached to your Azure Resources]<https://github.com/weeyin83/azure-powershell-code/tree/master/Tagging>
+- [Find Tags attached to your Azure Resources](https://github.com/weeyin83/azure-powershell-code/tree/master/Tagging)
 
 ## Credits
 

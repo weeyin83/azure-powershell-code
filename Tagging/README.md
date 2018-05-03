@@ -2,7 +2,7 @@
 
 This PowerShell script queries all Microsoft resources within your Azure subscription and reports back on any tags that may or may not exist.
 
-Below is a screenshot of the output that you will receive. 
+Below is a screenshot of the output that you will receive.
 
 ![alt text](https://raw.githubusercontent.com/weeyin83/azure-powershell-code/master/Assets/taggingoutput.JPG "Find-Tag Output")
 
