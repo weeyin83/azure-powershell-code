@@ -4,7 +4,7 @@ This PowerShell script queries all Microsoft resources within your Azure subscri
 
 Below is a screenshot of the output that you will receive. 
 
-![alt text](https://raw.githubusercontent.com/weeyin83/azure-powershell-code/master/Assets/taggingoutput.jpg "Find-Tag Output")
+![alt text](https://raw.githubusercontent.com/weeyin83/azure-powershell-code/master/Assets/taggingoutput.JPG "Find-Tag Output")
 
 ## Credits
 
