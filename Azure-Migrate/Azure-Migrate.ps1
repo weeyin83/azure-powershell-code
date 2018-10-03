@@ -5,8 +5,13 @@ Deploys the Azure Migrate Dependency Agent and Microsoft Monitoring Agent (MMA).
 .DESCRIPTION 
 This script installs the Depdency Agent and MMA component to allow full discover and assessment to take place of your servers in conjunction with Azure Migrate.  
 
-Tested on: 
-Windows Server 2016, Version 1607 (OS Build 14393.2363)
+The script requires PowerShell version 2.0 or above. 
+
+Tested on the following platforms:
+
+- Windows Server 2008 R2, Version 6.1 (Build 7601: Service Pack 1)
+- Windows Server 2012 R2, Version 6.3 (Build 9600)
+- Windows Server 2016, Version 1607 (OS Build 14393.2363)
 
 .OUTPUTS
 
