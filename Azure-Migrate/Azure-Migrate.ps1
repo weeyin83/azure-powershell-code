@@ -24,7 +24,11 @@ Find me on:
 
 .EXAMPLE
 
-.\Azure-Migrate.ps1 -Verbose
+The below example will run the script without any on screen feedback.
+.\Azure-Migrate.ps1 -WorkSpaceID 123456789 -WorkSpaceKey 123456789
+
+The below example will run the script with onscreen feedback as to what it is doing. 
+.\Azure-Migrate.ps1 -WorkSpaceID 123456789 -WorkSpaceKey 123456789 -Verbose
 
 Change Log
 V1.00, 02/10/2018 - Initial version
@@ -69,8 +73,6 @@ param(
 )
 
 # Set the parameters
-$WorkspaceID = 'EnteryourworkspaceIDHere'
-$WorkspaceKey = 'EnterWorkspacePrimaryKeyHere'
 $64FileName = "MMASetup-AMD64.exe"
 $32FileName = "MMASetup-i386.exe"
 $SMFileName = "InstallDependencyAgent-Windows.exe"
