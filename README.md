@@ -6,6 +6,7 @@ This repository contains PowerShell code that I have created to help query or pe
 
 - [Find Tags attached to your Azure Resources](https://github.com/weeyin83/azure-powershell-code/tree/master/Tagging)
 - [Install Azure Migrate components](https://github.com/weeyin83/azure-powershell-code/tree/master/Azure-Migrate)
+- [Resize an Azure Virtual Machine with PowerShell](https://github.com/weeyin83/azure-powershell-code/tree/master/Resize-VM)
 
 ## Credits
 
